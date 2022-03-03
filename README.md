@@ -1,9 +1,5 @@
-# cred_avenue_sms_api
-
-
-
-https://user-images.githubusercontent.com/56212417/156533925-b56f1910-2411-46a8-b919-5149cc61ac59.mp4
-
+# SMS Phishing deection api
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56212417/156536275-114509bf-c0e5-4669-987e-5c18e07b67ec.gif)
 
 ### This project was made for final's of (Ctrl Alt Debt)Cred-Avenvue Hackathon.
 ## The Problem:
